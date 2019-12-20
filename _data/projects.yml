@@ -1,0 +1,8 @@
+# Project template
+- layout: top-middle
+  name: ESM Yonetim
+  link: https://esmyonetim.ibb.gov.tr
+  quote: >
+    About device fault tracking
+  description: | # this will include new lines to allow paragraphs
+    A Workflow project about device fault. There is a 2 version for this app. v1 coding with .Net MVC and v2 coding with .Net Core MVC. v2 is a SOA based project.

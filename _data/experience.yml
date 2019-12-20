@@ -1,0 +1,29 @@
+# Experience template
+- layout: left
+  company: Ikarus HR and Software INC.
+  job_title: Software Engineer
+  dates: May 2019 - present
+  quote: >
+   Develop company web project
+  description: | # this will include new lines to allow paragraphs
+    Develop Wing Portal, Wing Talent project. Tech&Lang: .Net Core(C#), Elasticsearch(&Nest), Python, JS
+
+- layout: left
+  company: ISBAK INC., İSTANBUL
+  job_title: Software Engineer
+  dates: Aug 2017 - May 2019
+  quote: >
+   Developed some intranet project.
+  description: | # this will include new lines to allow paragraphs
+    Developed workflow app to davice faults and employee tracking, Developed a service of traffic jam in IBB City map, Developed Esri Rest Library easy to access Esri libraries in intranet, Contributing of CBS Spatial Service to check the access(authentication) of the services provided. Tech&Lang: .Net&.NetCore, C#, WebApi, SOA, Layered Architecture,JS
+
+- layout: left
+  company: Universal Software INC.
+  link: Link to company (optional)
+  job_title: Software Engineer
+  dates: Dec 2016 - July 2017
+  quote: >
+   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    R&D GIS mobile applications. Contributing of FlexCity project. Tech&Lang: Xamarin, Androd(Java), Swift (All of these just prototype)
+
