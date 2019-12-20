@@ -62,11 +62,11 @@ about_content: | # this will include new lines to allow paragraphs
  more_content: | # this will include new lines to allow paragraphs
   I'm using below technology, framework and language
   Working with:
-  * .Net, .Net Core, C#, Python Javascript
+    * .Net, .Net Core, C#, Python Javascript
   Research and Work:
-  * Docker, Swarm, Microservices
+    * Docker, Swarm, Microservices
   I have only basic info
-  * EsriJS, MongoDB, Java
+    * EsriJS, MongoDB, Java
 
 # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
