@@ -58,8 +58,8 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
- more_title: A Little More About Me #(Use this to override about more section title)
- more_content: | # this will include new lines to allow paragraphs
+more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
   I'm using below technology, framework and language
   Working with:
     * .Net, .Net Core, C#, Python Javascript
