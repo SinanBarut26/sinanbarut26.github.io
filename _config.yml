@@ -1,5 +1,5 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -61,10 +61,13 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   I'm using below technology, framework and language
+
   Working with:
     * .Net, .Net Core, C#, Python Javascript
+
   Research and Work:
     * Docker, Swarm, Microservices
+    
   I have only basic info
     * EsriJS, MongoDB, Java
 
