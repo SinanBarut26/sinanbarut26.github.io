@@ -1,10 +1,10 @@
 # Education Template
-- layout: left
+- layout: middle
   name: Fırat Universitesi
   dates: 2011 - 2016
   qualification: BScSoftware Engineering
 
-- layout: left
+- layout: middle
   name: Riga Tehcnical University
   dates: 2015(Erasmus)
   qualification: BSc Computer Science
