@@ -1,6 +1,6 @@
 # Site
 # repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: images/favicon.ico
 
 # Personal info
 name: Sinan BARUT
@@ -45,8 +45,7 @@ linkedin_username: sinanbarut26
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I heard something in Halt and Catch Fire movie. It’s related to tech, and I’m so impressed.”I know that something’s coming, something big, like a train, and all I want is to jump on board. But it’s getting faster and faster and I’m terrified I’m going to miss it … I don’t want to get left behind.” When I think of this sentence I get excited.
-
+  I heard something in Halt and Catch Fire movie. It’s related to tech, and I’m so impressed.”I know that something’s coming, something big, like a train, and all I want is to jump on board. But it’s getting faster and faster and I’m terrified I’m going to miss it … I don’t want to get left behind.” When I think of this sentence I get excited. You can follow posts in [my blog](https://blog.sinanbarut.net/)
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -66,10 +65,10 @@ more_content: | # this will include new lines to allow paragraphs
     * *.Net*, *.Net Core*, *C#*, *Python*, *Javascript*
 
   Research and Work:
-    * Docker, Flutter, AWS Lamda, AWS DynamoDB, Swarm, Microservices
+    * *Docker*, *Flutter*, *AWS Lamda*, *AWS DynamoDB*, *Swarm*, *Microservices*
 
   I have only basic info
-    * EsriJS, MongoDB, Java
+    * *EsriJS*, *MongoDB*, *Java*
 
 # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
