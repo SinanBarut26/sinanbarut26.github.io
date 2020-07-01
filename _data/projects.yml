@@ -1,5 +1,14 @@
 # Project template
 - layout: top-middle
+  name: Wing Talent
+  link: https://talent.ikarushr.com
+  quote: >
+    Resume scoring
+  description: | # this will include new lines to allow paragraphs
+    Your resume will scoring with ML algorithm(Python). You can see your resume status and compare your score and experience. Tech: .Net Core, Python, Javascript, Aws Lambda, Elasticsearch, Aws SQS, Aws SNS
+
+# Project template
+- layout: top-middle
   name: ESM Yonetim
   link: https://esmyonetim.ibb.gov.tr
   quote: >

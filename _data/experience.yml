@@ -6,7 +6,7 @@
   quote: >
    Develop company web project
   description: | # this will include new lines to allow paragraphs
-    Develop Wing Portal, Wing Talent project. Tech&Lang: .Net Core(C#), Elasticsearch(&Nest), Python, JS
+    Contributed to the data processing project with Python on AWS Lambda.Search operations were carried out on the basis of Elasticsearch. All of the projects were running on Docker. Technologies: .Net Core, AWS, Elasticsearch, Docker, Js, MySQL, Git
 
 - layout: left
   company: ISBAK INC.
@@ -15,6 +15,8 @@
   quote: >
    Developed some intranet project.
   description: | # this will include new lines to allow paragraphs
+    Developed as a Service-based (SOA) workflow application with .Net MVC and .Net MVC Core. During the transition to PostgreSQL and .Net Core applications, it was pioneered within the Directorate. Contributed to the AUTH project for the company to provide one-stop access to API. Traffic Intensity application for City Map was developed by writing .Net Core Background Service. To facilitate access to Esri services, a basic library called Esri REST Core was developed and shared on GitHub(https://github.com/SinanBarut26/EsriRestLibrary). Technologies: .Net, .Net Core, Web API, Js, PostgreSQL, Oracle, Git
+
     Developed workflow app to davice faults and employee tracking, Developed a service of traffic jam in IBB City map, Developed Esri Rest Library easy to access Esri libraries in intranet, Contributing of CBS Spatial Service to check the access(authentication) of the services provided. Tech&Lang: .Net&.NetCore, C#, WebApi, SOA, Layered Architecture,JS
 
 - layout: left
@@ -25,5 +27,6 @@
   quote: >
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    R&D GIS mobile applications. Contributing of FlexCity project. Tech&Lang: Xamarin, Androd(Java), Swift (All of these just prototype)
+    I developed mobile R&D applications on GIS based with Android (Java), iOS (Swift), Xamarin (C #). I contributed to the FlexCity project developed as an open source. Technologies: Xamarin, Android (Java), Swift, Java
+
 

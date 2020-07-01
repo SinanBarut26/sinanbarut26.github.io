@@ -5,7 +5,7 @@ favicon: images/favicon.ico
 # Personal info
 name: Sinan BARUT
 title: Software Engineer
-email: sinan_26@msn.com
+email: sinanbrt26@gmail.com
 # phone: Your phone number (optional)
 website: http://blog.sinanbarut.net/
 
@@ -62,13 +62,13 @@ more_content: | # this will include new lines to allow paragraphs
   I'm using below technology, framework and language
 
   Working with:
-    * *.Net*, *.Net Core*, *C#*, *Python*, *Javascript*
+    * *.Net*, *.Net Core*, *C#*, *Python*, *Javascript*, *MySQL*, *Firestore*
 
   Research and Work:
-    * *Docker*, *Flutter*, *AWS Lamda*, *AWS DynamoDB*, *Swarm*, *Microservices*
+    * *Docker*, *Flutter*, *AWS Lamda*, *Swarm*, *Microservices*, *PostgreSQL*
 
   I have only basic info
-    * *EsriJS*, *MongoDB*, *Java*
+    * *MongoDB*, *Java*
 
 # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
