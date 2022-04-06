@@ -1,10 +1,38 @@
 # Experience template
 - layout: left
-  company: Ikarus HR and Software INC.
+  company: Black Kite INC.
+  link: https://blackkite.com/
   job_title: Software Engineer
-  dates: May 2019 - present
+  dates: Mar 2021 - July 2021
   quote: >
-   Develop company web project
+   Developed company web project that communication between stakeholders and the team members
+  description: | # this will include new lines to allow paragraphs
+    Solving bugs and developing new features in Cyber Security Monitoring application.
+    Upgrading the project from .Net Framework to .Net Core 3.1(for now. Our plan upgrade to .Net 6).
+    The project running on Google Cloud.
+    SQL query optimizations.
+    New application is event-based and running multi thread.
+    Technologies: C#, Net Framework, .Net Core, Google Cloud, Google Cloud Task, Entity framework, Entity Framework Core,
+
+- layout: left
+  company: ProceedLabs INC.
+  link: http://www.proceedlabs.com/
+  job_title: Software Engineer
+  dates: Mar 2021 - July 2021
+  quote: >
+   Developed company web project that communication between stakeholders and the team members
+  description: | # this will include new lines to allow paragraphs
+    Developed an application with .net core in microservice architecture that provide communication between stakeholders and the team members
+    All projects running on AWS Kubernetes(k8s)
+    Technologies: .Net Core, Redis, RabbitMq, AWS, Elasticsearch, Docker, Js, MySQL, Git, Microservices, MongoDb
+
+- layout: left
+  company: Ikarus HR and Software INC.
+  link: https://www.ikarushr.com/
+  job_title: Software Engineer
+  dates: May 2019 - Mar 2021
+  quote: >
+   Developed company web project
   description: | # this will include new lines to allow paragraphs
     Contributed to the data processing project with Python on AWS Lambda.Search operations were carried out on the basis of Elasticsearch. All of the projects were running on Docker. Technologies: .Net Core, AWS, Elasticsearch, Docker, Js, MySQL, Git
 
