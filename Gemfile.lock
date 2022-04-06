@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    modern-resume-theme (2.0.2)
+    modern-resume-theme (2.0.10)
       github-pages (~> 209)
       jekyll-seo-tag (~> 2.1)
 
@@ -77,12 +77,12 @@ GEM
       jekyll-theme-time-machine (= 0.1.1)
       jekyll-titles-from-headings (= 0.5.3)
       jemoji (= 0.12.0)
-      kramdown (= 2.3.1)
+      kramdown (= 2.3.0)
       kramdown-parser-gfm (= 1.1.0)
       liquid (= 4.0.3)
       mercenary (~> 0.3)
       minima (= 2.5.1)
-      nokogiri (>= 1.11.0, < 2.0)
+      nokogiri (>= 1.10.4, < 2.0)
       rouge (= 3.23.0)
       terminal-table (~> 1.4)
     github-pages-health-check (1.16.1)

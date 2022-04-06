@@ -9,7 +9,7 @@ email: sinanbrt26@gmail.com
 # phone: Your phone number (optional)
 website: http://blog.sinanbarut.net/
 
-darkmode: on
+darkmode: true
 
 # Social links
 twitter_username: sinanbarut26
@@ -25,6 +25,7 @@ linkedin_username: sinanbarut26
 # youtube_username: jekyll
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
+# googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 # additional_links:
@@ -47,33 +48,21 @@ about_profile_image: images/profile.webp
 about_content: | # this will include new lines to allow paragraphs
   I heard something in Halt and Catch Fire movie. It’s related to tech, and I’m so impressed.”I know that something’s coming, something big, like a train, and all I want is to jump on board. But it’s getting faster and faster and I’m terrified I’m going to miss it … I don’t want to get left behind.” When I think of this sentence I get excited. You can follow posts in [my blog](https://blog.sinanbarut.net/)
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
-
-# Education Section
-# education_title: Education #(Use this to override about education section title)
-
-# More Section
-more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  I'm using below technology, framework and language
-
-  Working with:
-    * *.Net*, *.Net Core*, *C#*, *Python*, *Javascript*, *MySQL*, *Firestore*
-
-  Research and Work:
-    * *Docker*, *Flutter*, *AWS Lamda*, *Swarm*, *Microservices*, *PostgreSQL*
-
-  I have only basic info
-    * *MongoDB*, *Java*
-
-# Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+content:
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I'm using below technology, framework and language
+      
+      Working with:
+        * *.Net*, *.Net Core*, *C#*, *Python*, *Javascript*, *MySQL*, *Firestore*, MsSql
+        
+      Research and Work:
+        * *Docker*, *Flutter*, *AWS Lamda*, *Microservices*, *PostgreSQL*, *MongoDB*
 
 # Footer
-# footer_show_references: true
+#footer_show_references: true
+# references_title: References on request (Override references text)
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
